@@ -1,0 +1,9 @@
+{
+    "name" : "coogle/cooglelib",
+    "description" : "CoogleLib standard module for Zend Framework 2",
+    "type" : "library",
+    "homepage" : "http://www.github.com/coogle/CoogleLib",
+    "require" : {
+        "zendframework/zendframework" : ">2.2.0"
+    }
+}
