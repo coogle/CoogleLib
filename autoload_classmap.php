@@ -1,3 +1,5 @@
 <?php
 
-return array();
+return array(
+	'CoogleLib\\Module' => __DIR__ . '/Module.php'
+);
